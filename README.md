@@ -4,10 +4,11 @@ This repository is about amazing things you can do with CSS.
 
 ### CSS Basic Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CSS is Cascading Style Sheets
 
 ```markdown
 Syntax highlighted code block
+CSS code here
 
 # CSS Basic Features
 ## Box
