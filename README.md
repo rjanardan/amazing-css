@@ -16,4 +16,3 @@ Syntax highlighted code block
 ## Some more
 # Simple Animations
 # Advanced Animations
-
