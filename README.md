@@ -16,4 +16,14 @@ CSS code here
 ## Colors
 # Shapes
 # Simple Animations
+Topics from W3Schools
+    @keyframes
+    animation-name
+    animation-duration
+    animation-delay
+    animation-iteration-count
+    animation-direction
+    animation-timing-function
+    animation-fill-mode
+    animation
 # Advanced Animations
